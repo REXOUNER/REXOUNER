@@ -1,15 +1,5 @@
-- 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-🖥 Python developer
-💼 13 years
-🇫🇷 French/english
-🎮 Gamer
-📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
-👨‍💻 TryHackMe : Click
-🧠 Root-Me : Click
-📦 HackTheBox : Click
-💬 Discord : REXOUNER#0688
-🏆 Skills and Tools
-
-
-
-📈 GitHub Stats
+Hi im REXOUNER im Python developper 
+I have 13 years old 
+Gamer
+and im Just Hacker.
+My discord REXOUNER#0688
