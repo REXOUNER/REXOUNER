@@ -1,6 +1,2 @@
-Hi im REXOUNER im Python developper 
-I have 13 years old 
-Gamer
-and im Just Hacker
-░  ░      ░      ░     ░  ░      ░    ░  ░   ░     
-                                                   
+Bonjours, je susi REXOUNER je suis un jeune dévelopeur je cherche a améliorer mes technique et partager mes projets.
+
